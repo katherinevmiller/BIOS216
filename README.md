@@ -2,12 +2,12 @@
 
 ## Authors
 
-Stylianos (Stelios) Serghiou, Eirini Tsekitsidou
+Kate Miller
 
 
 ## Publication
 
-When we have the preprint or publication, we will post the link here!
+Not for publication.
 
 
 ## File structure
